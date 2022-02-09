@@ -1,2 +1,2 @@
-# DX4D BUILD
-DX4D Official Builds
+# DX4D PLAYTESTING BIN
+DX4D Official Builds for Playtesting
